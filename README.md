@@ -1,5 +1,6 @@
 ## Hi there 👋
 NTNU Student
+
 Double major in Technology Application and Human Resource & Computer Science
 
 ## 📊 LeetCode Stats
