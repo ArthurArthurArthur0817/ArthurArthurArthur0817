@@ -5,7 +5,8 @@ Double major in Technology Application and Human Resource & Computer Science Dep
 
 ## 📊 LeetCode Stats
 
-<!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/ArthurArthurArthur?theme=dark&font=Karma&ext=contest)](https://leetcode.com/ArthurArthur/) -->
+ [![LeetCode Stats](https://leetcard.jacoblin.cool/ArthurArthurArthur?theme=dark&font=Karma&ext=contest)](https://leetcode.com/ArthurArthur/) 
+
 
 
 
