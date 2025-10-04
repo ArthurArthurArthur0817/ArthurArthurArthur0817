@@ -1,7 +1,10 @@
-## Hi there 👋
+## Intro 
 NTNU Student
 
 Double major in Technology Application and Human Resource & Computer Science Department
+
+## Research & Experience
+2025 IEEE Global Communications Conference- Quantum-Enhanced Forecasting for Deep Reinforcement Learning in Algorithmic Trading
 
 ## 📊 LeetCode Stats
 
